@@ -23,6 +23,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # use haml to create html quickly
 gem 'haml'
 gem 'haml-rails', '~> 0.9'
+#styles
+gem 'bootstrap-sass'
 
 # simple form
 gem 'simple_form'
