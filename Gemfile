@@ -29,6 +29,15 @@ gem 'bootstrap-sass'
 # simple form
 gem 'simple_form'
 
+# grape swagger
+gem 'grape', '0.9.0'#github: 'intridea/grape'
+gem 'grape-entity', '~> 0.5.0'
+gem 'grape-swagger', '~> 0.7.2'
+gem 'grape-swagger-rails',  '~> 0.1.0'
+
+# activate grape with rails 4+
+gem 'hashie-forbidden_attributes'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
