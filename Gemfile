@@ -24,7 +24,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'haml'
 gem 'haml-rails', '~> 0.9'
 # styles
-gem 'bootstrap-sass'
+gem 'materialize-sass'
 
 # simple form
 gem 'simple_form'
