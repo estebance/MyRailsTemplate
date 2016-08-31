@@ -41,15 +41,9 @@
 /capybara-*.html
 /gems
 /specifications
-/bin/*
 rerun.txt
 pickle-email-*.html
 .zeus.sock
-
-
-
-# Ignore database configuration files
-/config/database.yml
 
 # scm revert files
 **.orig

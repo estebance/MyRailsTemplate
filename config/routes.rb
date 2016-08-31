@@ -53,10 +53,4 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
-
-  # uncomment to activate the API modules
-   mount API => '/'
-   mount GrapeSwaggerRails::Engine => '/api_doc'
-
-
 end

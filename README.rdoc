@@ -7,15 +7,24 @@ Things you may want to cover:
 
 * Ruby version
 
+    2.2.2
+
 * System dependencies
+
+    imagemagick
 
 * Configuration
 
 * Database creation
 
-* Database initialization
+    * configure your env variables for your database.yml
+
+    * change to your preferred database names
+
 
 * How to run the test suite
+
+    * bundle exec rspec
 
 * Services (job queues, cache servers, search engines, etc.)
 
