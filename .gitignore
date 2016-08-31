@@ -27,7 +27,6 @@
 /coverage/
 /db/*.javadb/
 /db/*.sqlite3
-/config/database.yml
 /doc/api/
 /doc/app/
 /doc/features.html
